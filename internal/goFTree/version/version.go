@@ -2,4 +2,4 @@ package version
 
 import ()
 
-var Version string = "dev"
+var Version string = "0.1.0"
